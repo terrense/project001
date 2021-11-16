@@ -9,7 +9,7 @@ private:
 	long shares;
 	double share_val;
 	double total_val;
-	void set_tol() { total_val = shares * share_val; }
+	void set_tot() { total_val = shares * share_val; }
 
 
 public:
