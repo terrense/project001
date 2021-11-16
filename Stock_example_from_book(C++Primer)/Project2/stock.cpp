@@ -79,5 +79,5 @@ void Stock::show() {
 
 void Stock::update(double price) {
 	share_val = price;
-	set_total();
+	set_tot();
 }
